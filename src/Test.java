@@ -11,7 +11,7 @@ public class Test {
 		final Logger logger = Logger.getLogger(Test.class);
 		logger.info("Hello Neeraj Gupta");
 
-		//logger.debug("Hello World!");
+		logger.debug("Hello World!");
 
 	}
 
