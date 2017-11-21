@@ -1,2 +1,2 @@
-# NETS
+
 Learn about GITS
