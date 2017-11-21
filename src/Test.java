@@ -12,6 +12,7 @@ public class Test {
 		logger.info("Hello Neeraj Gupta");
 
 		logger.debug("Hello World!");
+                logger.info("hello");
 
 	}
 
